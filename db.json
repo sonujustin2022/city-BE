@@ -1,0 +1,12 @@
+{
+  "City": [
+    {
+      "todoName": "kollam",
+      "id": 1
+    },
+    {
+      "todoName": "trivandrum",
+      "id": 2
+    }
+  ]
+}
